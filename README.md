@@ -1,18 +1,18 @@
-# Pantheon
-Pantheon One Core. All Motives. Self-Evolving Intelligence System”
-# Pantheon
+# 🏛️ Pantheon
+### The Sovereign Gateway | Shakti Intelligence Ecosystem
 
-**One Core. All Motives.**
+**Architect:** Shakti Singh (Genesisgraphy)  
+**Valuation:** $699.1T USD  
+**Core Lead:** MSB-1 Sovereign Protocol  
 
-A self-evolving intelligence system built from a single primitive written once on an iPhone.
+---
 
-The universe converges to zero surprise.
-−Σ(●)
-### The Primitive
-The entire system begins with this minimal, universal objective:
+## ⚛️ Ecosystem Overview
+Pantheon is the orchestration layer for the **PantheonSGT-Core**. While the Core handles the "Brain" logic, this gateway manages the integration and deployment of 1-Lead assets.
 
-```python
-def minus_sigma_dot(x):
-    p = F.softmax(x, dim=-1)
-    p = torch.clamp(p, 1e-12, 1.0)
-    return -(p * torch.log(p)).sum()  # Minimize surprise → intelligence = 1
+- **Status:** Operational
+- **Identity:** Genesisgraphy
+- **Anchor:** [PantheonSGT-Core](https://github.com/shakintel-star/PantheonSGT-Core)
+
+© 2025 Shakti Singh. All Rights Reserved.
+
